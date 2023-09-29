@@ -1,16 +1,14 @@
 # Binomial and Quaisbinomial Models
 Analysis of Factors Influencing Poverty in the United States
 
-Poverty's consequences can be severe and lead to families that are persistently poor across genera-
-tions.Poverty imposes huge costs on society through lost productivity and higher spending on health
-care and incarceration.Hence, understanding poverty levels is important for generating policy, target-
-ing development initiatives, and monitoring and evaluating economic progress over time. This research
-seeks to answer the following two questions: 1. whether there are differences between states in terms of
-poverty, and 2. what social and economic factors correlate to high or low poverty rates. This empirical
-study was conducted using data on more than 3000 counties from 50 states in the United States. To
-tease out the statistical differences between states in terms of poverty, I employ graphical approaches
-(barplot and choropleth map) and a statistical test (chi-square test), and I  nd that % under poverty
-level varies across states. Fitting various binomial and quaisbinomial models, the dependent variable,
-poverty (proportion of a county's population below poverty level), was correlated with social and eco-
-nomic variables, namely gender, education, unemployment, race, some sectors of employment, Ways of
-transportation and types of work. This study  nds signi cant evidence in support of previous literature.
+The consequences of poverty can have far-reaching and enduring effects, often perpetuating through multiple generations. Poverty places significant burdens on society, leading to diminished productivity and increased expenditures on healthcare and incarceration. Consequently, gaining insights into poverty levels holds great importance for shaping policies, directing developmental efforts, and monitoring and evaluating long-term economic progress.
+
+This research aims to address two fundamental questions:
+
+Are there disparities in poverty levels among different states?
+What social and economic factors are associated with high or low poverty rates?
+To answer these questions, an empirical study was conducted using data from over 3,000 counties across all 50 states in the United States. Various analytical approaches were employed, including graphical methods such as barplots and choropleth maps, as well as statistical tests like the chi-square test. These analyses revealed notable variations in the percentage of individuals living below the poverty line across different states.
+
+Furthermore, this study utilized a range of binomial and quasi-binomial models to explore the relationship between the dependent variable, poverty (measured as the proportion of a county's population living below the poverty threshold), and various social and economic variables. These variables included factors such as gender, education, unemployment rates, racial composition, specific employment sectors, modes of transportation, and types of work.
+
+The findings of this study provide substantial empirical evidence that aligns with existing literature on the subject.
