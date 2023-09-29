@@ -1,4 +1,4 @@
-# Binomial and Quaisbinomial Models
+# Binomial and Quasibinomial Models
 Analysis of Factors Influencing Poverty in the United States
 
 The consequences of poverty can have far-reaching and enduring effects, often perpetuating through multiple generations. Poverty places significant burdens on society, leading to diminished productivity and increased expenditures on healthcare and incarceration. Consequently, gaining insights into poverty levels holds great importance for shaping policies, directing developmental efforts, and monitoring and evaluating long-term economic progress.
